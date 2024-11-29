@@ -5,7 +5,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #F9F1F0;
+  background-color: #1b1b1b;
+  color: white;
 } 
 
 @layer base{

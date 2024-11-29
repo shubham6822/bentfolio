@@ -10,8 +10,8 @@ export default {
     extend: {
       colors: {
         "background": "#F9F1F0",
-        "primary": "#FADCD9",
-        "secondary": "#F8AFA6",
+        "primary": "#000",
+        "secondary": "#5c5c5a",
       },
       fontFamily: {
         "gilroy-regular": ["Gilroy-regular", "sans-serif"],
