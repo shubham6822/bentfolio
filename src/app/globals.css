@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F9F1F0;
+} 
+
+@layer base{
+  @font-face {
+    font-family: "Gilroy-regular";
+    src: url("./fonts/Gilroy-Medium.ttf")
+  }
+  @font-face {
+    font-family: "Gilroy-SemiBold";
+    src: url("./fonts/Gilroy-SemiBold.ttf")
+  }
+  @font-face {
+    font-family: "Gilroy-Italic";
+    src: url("./fonts/Gilroy-RegularItalic.ttf")
+  }
+}
